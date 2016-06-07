@@ -1,0 +1,32 @@
+
+body {
+    margin: 50px;
+}
+
+#inp {
+    width: 150px;
+    font-size: 20px;
+}
+
+.container {
+    display: block;
+    margin-top: 5px;
+    width: 150px;
+}
+
+.btn {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+}
+
+#show {
+    height: 30px;
+    color: #B0A9A9;
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+#equal{
+    width: 60px;
+}
